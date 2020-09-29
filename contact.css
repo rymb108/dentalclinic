@@ -1,0 +1,126 @@
+body{
+    font-family: "Adobe Caslon";
+    font-size: 15px;
+    margin: 0px;
+}
+
+.logo img{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+    background-color: #B0C4DE;
+}
+
+header ul{
+    list-style: none;
+    line-height: 50px;
+}
+
+header ul li{
+    float: left;
+    color: white;
+    font-size: 17px;
+    padding-right: 30px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover{
+    color: darkblue;
+}
+
+.number{
+    float: right;
+    margin-right: 100px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #F8F8FF;
+}
+
+main{
+    margin-left: 20px;
+}
+
+h2{
+    border-bottom: 1px dashed #B0C4DE;
+    font-size: 28px;
+    color: #000077;
+}
+
+.address h3{
+    font-size: 20px;
+    color: #4682B4;
+}
+
+.address{
+    margin-left: 50px;
+    color: midnightblue;
+    font-size: 18px;
+}
+
+.tel{
+    margin-left: 50px;
+    margin-top: 15px;
+    color: midnightblue;
+    font-size: 18px;
+}
+
+.officeHours{
+    margin-bottom: 100px;
+}
+
+.menu{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: #4682B4;
+}
+
+.hours{
+    margin-left: 40px;
+    list-style: none;
+    line-height: 20px;
+    color: midnightblue;
+    font-size: 17px;
+}
+
+.timeM, .timeT{
+    padding-left: 100px;
+    color: #778899;
+}
+
+.timeW{
+    padding-left: 80px;
+    color: #778899;
+}
+
+.timeTh{
+    padding-left: 93px;
+    color: #778899;
+}
+
+.timeF{
+    padding-left: 112px;
+    color: #778899;
+}
+
+.timeS{
+    padding-left: 97px;
+    color: #778899;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: #191970;
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
